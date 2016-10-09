@@ -7,4 +7,4 @@ The music is all original music that I wrote in high school.
 
 Forms: Splash.cs, Towers.cs
 
-![Alt text](https://github.com/jessboss80/Towers-Of-Hanoi_Animation/blob/master/bin/hanoi.png)
+![Alt text](https://github.com/jessboss80/Towers-Of-Hanoi-Animation/blob/master/bin/hanoi.png)
